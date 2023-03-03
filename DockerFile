@@ -1,0 +1,3 @@
+FROM myacr111110.azurecr.io/sonarqube/sonarqube9.9
+
+RUN echo "Hello Sonarqube"
